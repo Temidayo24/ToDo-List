@@ -127,4 +127,8 @@ body {
   .container ul {
     width: 90%;
   }
+
+  .toDoApp form button {
+  width: 15%;
+}
 }
