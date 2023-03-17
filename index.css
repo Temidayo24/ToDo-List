@@ -45,7 +45,7 @@ body {
 .toDoApp form input {
   border: none;
   background-color: #3c4979;
-  font-size: 18px;
+  font-size: 1.2rem;
   color: white;
   padding: 15px 10px;
   width: 100%;
